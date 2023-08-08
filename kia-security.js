@@ -82,3 +82,4 @@ function loadTerminals(){
         terminal.outerHTML = getIframeContent(linesContent, terminal.innerHTML);
     }
 }
+/*MEW*/
